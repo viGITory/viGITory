@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/movie_app-f5f5f5?style=for-the-badge)](https://vigitory-movie-app.netlify.app)
 [![](https://img.shields.io/badge/news_portal-444?style=for-the-badge)](https://vigitory-news-portal.netlify.app)
-[![](https://img.shields.io/badge/momentum-ff4040?style=for-the-badge)](https://rolling-scopes-school.github.io/vigitory-JSFE2021Q3/momentum)
+[![](https://img.shields.io/badge/momentum-ff4040?style=for-the-badge)](https://vigitory-momentum.netlify.app)
 [![](https://img.shields.io/badge/museum-9d8665?style=for-the-badge)](https://rolling-scopes-school.github.io/vigitory-JSFE2021Q3/museum-dom)
 [![](https://img.shields.io/badge/clock-00bfff?style=for-the-badge)](https://vigitory.github.io/clock)
 [![](https://img.shields.io/badge/animation_demo-008500?style=for-the-badge)](https://vigitory.github.io/animation-demo)
