@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/christmas_task-2a668b?style=for-the-badge)](https://vigitory-christmas-task.netlify.app)
 [![](https://img.shields.io/badge/fancy_weather-f59e0b?style=for-the-badge)](https://vigitory-fancy-weather-react.netlify.app)
 [![](https://img.shields.io/badge/virtual_keyboard-58667e?style=for-the-badge)](https://vigitory-virtual-keyboard.netlify.app)
 [![](https://img.shields.io/badge/movie_app-f5f5f5?style=for-the-badge)](https://vigitory-movie-app.netlify.app)
